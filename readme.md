@@ -8,13 +8,16 @@ você está emprestado ou livros que gostaria de realizar uma reserva.
 * Python (Flask, SQLAlchemy, Marshmallow);
 * Banco de dados SQLite (padrão python).
 
-<h2>Como instalar</h2>
+<h2>Clonar repositório</h2>
 
-* git clone https://github.com/Gustavobr20/Library-api.git;
+* git clone https://github.com/Gustavobr20/Library-api.git; (no prompt de comando)
 
 <h2>Requerimentos</h2>
 
-* requeriments.txt
+1° Pelo prompt de comando, acessar a pasta do projeto ex: d:\projetos\livraria <br>
+2° Ativar o ambiente virtual que está dentro da pasta .\venv\Scripts\activate <br>
+3° Digitar o comando: pip install -r requirements.txt <br>
+4° Pronto requerimentos instalados!
 
 <h2>Como utilizar</h2>
 
